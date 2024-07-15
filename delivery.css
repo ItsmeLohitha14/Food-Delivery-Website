@@ -1,0 +1,67 @@
+body{
+    padding: 120px;
+    display: flex;
+    justify-content: center;
+}
+
+.delivery-container{
+    width: 55vw;
+}
+.instruction-check{
+    height: 25px;
+    width: 30px;
+
+}
+.instruction{
+    font-family:  sans-serif;
+    margin-left: 10px;
+    font-size: 16px
+}
+.delivery-head{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 45px;
+    font-weight: bold;
+}
+
+.instruction-con{
+    margin-top: 25px;
+    
+}
+
+.guidelines{
+    margin-top: 30px;
+}
+
+li{
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.but{
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 25px;
+    width: 170px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}
+
+.status{
+    text-align: center;
+
+    padding: 15px;
+    
+}
+
+.status-head{
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+
+}
+
+.status-para{
+    font-family: serif;
+}
